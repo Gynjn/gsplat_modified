@@ -106,7 +106,7 @@ def get_extensions():
 
 
 setup(
-    name="gsplat",
+    name="gsplat_modified",
     version=__version__,
     description=" Python package for differentiable rasterization of gaussians",
     keywords="gaussian, splatting, cuda",
